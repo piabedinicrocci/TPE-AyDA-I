@@ -1,0 +1,218 @@
+# depslib dependency file v1.0
+1621905558 source:c:\users\user\onedrive\escritorio\tpe\src\abb.cpp
+	"ABB.h"
+	<iostream>
+
+1621905536 c:\users\user\onedrive\escritorio\tpe\include\abb.h
+	"empresa.h"
+
+1621900265 c:\users\user\onedrive\escritorio\tpe\include\empresa.h
+	<iostream>
+
+1621900397 source:c:\users\user\onedrive\escritorio\tpe\src\empresa.cpp
+	"empresa.h"
+
+1621904333 source:c:\users\user\onedrive\escritorio\tpe\main.cpp
+	<iostream>
+	<fstream>
+	"empresa.h"
+	"servicios.h"
+	"ABB.h"
+
+1621900667 c:\users\user\onedrive\escritorio\tpe\servicios.h
+	"empresa.h"
+	"ABB.h"
+
+1621906754 source:c:\users\user\onedrive\escritorio\tpe\servicios.cpp
+	"ABB.h"
+	"servicios.h"
+	"ListaSimple.h"
+	"empresa.h"
+
+1621906031 source:c:\users\user\onedrive\escritorio\tpe\src\listasimple.cpp
+	"ListaSimple.h"
+	<iostream>
+
+1621906031 c:\users\user\onedrive\escritorio\tpe\include\listasimple.h
+	"empresa.h"
+
+1622066422 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt\tpe\main.cpp
+	<iostream>
+	"Empresa.h"
+	"Servicios.h"
+	"ABB.h"
+
+1622569082 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt\tpe\include\empresa.h
+	<iostream>
+
+1622740095 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt\tpe\servicios.h
+	"Empresa.h"
+	"ABB.h"
+	"ListaSimple.h"
+
+1622066841 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt\tpe\include\abb.h
+	"Empresa.h"
+
+1622740220 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt\tpe\servicios.cpp
+	<fstream>
+	"ABB.h"
+	"Servicios.h"
+	"ListaSimple.h"
+	"Empresa.h"
+
+1622740061 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt\tpe\include\listasimple.h
+	"Empresa.h"
+
+1622067203 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt\tpe\src\abb.cpp
+	"ABB.h"
+	<iostream>
+
+1622569082 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt\tpe\src\empresa.cpp
+	"Empresa.h"
+
+1622740508 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt\tpe\src\listasimple.cpp
+	"ListaSimple.h"
+	<iostream>
+	<cassert>
+
+1622066422 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template\tpe\main.cpp
+	<iostream>
+	"Empresa.h"
+	"Servicios.h"
+	"ABB.h"
+
+1622569082 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template\tpe\include\empresa.h
+	<iostream>
+
+1622741499 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template\tpe\servicios.h
+	"Empresa.h"
+	"ABB.h"
+	"ListaSimple.h"
+
+1622066841 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template\tpe\include\abb.h
+	"Empresa.h"
+
+1622742715 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template\tpe\include\listasimple.h
+	"Empresa.h"
+
+1623261461 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template\tpe\servicios.cpp
+	<fstream>
+	"ABB.h"
+	"Servicios.h"
+	"ListaSimple.h"
+	"Empresa.h"
+
+1622067203 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template\tpe\src\abb.cpp
+	"ABB.h"
+	<iostream>
+
+1622569082 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template\tpe\src\empresa.cpp
+	"Empresa.h"
+
+1622743345 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template\tpe\src\listasimple.cpp
+	"ListaSimple.h"
+	<iostream>
+	<cassert>
+
+1624485432 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template - copia\tpe\servicios.cpp
+	<fstream>
+	"ABB.h"
+	"Servicios.h"
+	"ListaSimple.h"
+	"Empresa.h"
+	"PrioritySearchTree.h"
+
+1622066841 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template - copia\tpe\include\abb.h
+	"Empresa.h"
+
+1622569082 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template - copia\tpe\include\empresa.h
+	<iostream>
+
+1624485289 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template - copia\tpe\servicios.h
+	"Empresa.h"
+	"ABB.h"
+	"ListaSimple.h"
+	"PrioritySearchTree.h"
+
+1622742715 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template - copia\tpe\include\listasimple.h
+	"Empresa.h"
+
+1622067203 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template - copia\tpe\src\abb.cpp
+	"ABB.h"
+	<iostream>
+
+1622569082 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template - copia\tpe\src\empresa.cpp
+	"Empresa.h"
+
+1622743345 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template - copia\tpe\src\listasimple.cpp
+	"ListaSimple.h"
+	<iostream>
+	<cassert>
+
+1624488681 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template - copia\tpe\main.cpp
+	<iostream>
+	"Empresa.h"
+	"Servicios.h"
+	"ABB.h"
+	"PrioritySearchTree.h"
+
+1624560805 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template - copia\tpe\src\prioritysearchtree.cpp
+	"PrioritySearchTree.h"
+	"ListaSimple.h"
+	"Empresa.h"
+
+1624488681 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template - copia\tpe\include\prioritysearchtree.h
+	"Empresa.h"
+	"ListaSimple.h"
+
+1624488681 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template y pst\tpe\main.cpp
+	<iostream>
+	"Empresa.h"
+	"Servicios.h"
+	"ABB.h"
+	"PrioritySearchTree.h"
+
+1622569082 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template y pst\tpe\include\empresa.h
+	<iostream>
+
+1624485289 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template y pst\tpe\servicios.h
+	"Empresa.h"
+	"ABB.h"
+	"ListaSimple.h"
+	"PrioritySearchTree.h"
+
+1622066841 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template y pst\tpe\include\abb.h
+	"Empresa.h"
+
+1624673462 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template y pst\tpe\include\listasimple.h
+	"Empresa.h"
+
+1624814031 c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template y pst\tpe\include\prioritysearchtree.h
+	"Empresa.h"
+	"ListaSimple.h"
+
+1624673765 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template y pst\tpe\servicios.cpp
+	<fstream>
+	"ABB.h"
+	"Servicios.h"
+	"ListaSimple.h"
+	"Empresa.h"
+	"PrioritySearchTree.h"
+
+1622067203 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template y pst\tpe\src\abb.cpp
+	"ABB.h"
+	<iostream>
+
+1622569082 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template y pst\tpe\src\empresa.cpp
+	"Empresa.h"
+
+1624673554 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template y pst\tpe\src\listasimple.cpp
+	"ListaSimple.h"
+	<iostream>
+	<cassert>
+
+1624814031 source:c:\users\user\onedrive\escritorio\grupo15-bedini burckhardt - copia con template y pst\tpe\src\prioritysearchtree.cpp
+	"PrioritySearchTree.h"
+	"ListaSimple.h"
+	"Empresa.h"
+
